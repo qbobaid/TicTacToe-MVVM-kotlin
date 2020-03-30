@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="winner_is">Winner is</string>
+    <string name="close">Close</string>
+    <string name="play_again">Play Again</string>
+    <string name="player_one_name">player one name</string>
+    <string name="player_two_name">player two name</string>
+    <string name="ok">Ok</string>
+    <string name="provide_player_names">Provide player names</string>
+</resources>
